@@ -11,4 +11,4 @@ Add data from 2016 and 2017 and, for each month, calculate the percentage of tot
 Plot this data on a bar graph
 Dealing with outliers and missing data.
 Label encoding for categorical variables.
-Input Validation
+Input Validation of columns

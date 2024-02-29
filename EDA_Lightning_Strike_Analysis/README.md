@@ -12,3 +12,5 @@ In this notebook, pandas are used to examine 2018 lightning strike data collecte
 - **Dealing with outliers and missing data.**
 - **Label encoding for categorical variables.**
 - **Input Validation of columns**
+
+The data dictionary can be found [here](https://github.com/Henry1269/Data_Analysis/assets/93161307/bbe76a81-f930-4202-9ecd-f5065d056ae7)

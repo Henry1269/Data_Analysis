@@ -14,3 +14,6 @@ The following questions will also be solved:
 - Companies in the artificial intelligence industry based in London
 - A list of the top 20 countries sorted by the sum of company valuations in each country, excluding the United States, China, India, and the United Kingdom
 - A global valuation map of all countries except the United States, China, India, and the United Kingdom
+
+Data Dictionary can be found [here](https://github.com/Henry1269/Data_Analysis/assets/93161307/069c62ea-f00a-431f-a5bb-72d0a5b092c0)
+

@@ -6,10 +6,11 @@ The time it took companies to reach unicorn status. That is, it reached a billio
 - Gain more insight on a specific year
 - Observe Trends Over Time of companies that became unicorns for a particular year of choice.
 
-Address Missing Data
+**Addressing Missing Data**
+
 The following questions will also be solved:
 
 - Companies in the hardware industry based in Beijing, San Francisco, and London
 - Companies in the artificial intelligence industry based in London
-- A list of the top 20 countries sorted by sum of company valuations in each country, excluding United States, China, India, and United Kingdom
-- A global valuation map of all countries except United States, China, India, and United Kingdom
+- A list of the top 20 countries sorted by the sum of company valuations in each country, excluding the United States, China, India, and the United Kingdom
+- A global valuation map of all countries except the United States, China, India, and the United Kingdom

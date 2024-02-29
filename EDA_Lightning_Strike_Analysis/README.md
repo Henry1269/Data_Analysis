@@ -1,4 +1,4 @@
-Overview - basic data functions
+**Overview - basic data functions**
 
 In this notebook, pandas are used to examine 2018 lightning strike data collected by the National Oceanic and Atmospheric Administration (NOAA). This notebook takes one through the EDA- using basic data functions with Python, EDA- structuring with Python, and dealing with missing values and outliers with Python. Then, the following calculations will be done to implement the processes listed above.
 
@@ -9,6 +9,6 @@ In this notebook, pandas are used to examine 2018 lightning strike data collecte
 - Determine whether certain days of the week had more lightning strikes than others
 - Add data from 2016 and 2017 and, for each month, calculate the percentage of total lightning strikes for that year that occurred in that month
 - Plot this data on a bar graph
-- Dealing with outliers and missing data.
-- Label encoding for categorical variables.
-- Input Validation of columns
+- **Dealing with outliers and missing data.**
+- **Label encoding for categorical variables.**
+- **Input Validation of columns**
